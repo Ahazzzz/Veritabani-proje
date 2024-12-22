@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Antrenman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Basketbol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="basketbolcu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ESpor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="esporcu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Futbol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="futbolcu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaliDeger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oyuncular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sponsorluklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tesis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Voleybol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voleybolcu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

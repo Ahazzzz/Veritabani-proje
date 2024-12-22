@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\oyuncular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\oyuncular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\oyuncular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\oyuncular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\voleybolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\voleybolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\sponsorluklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\sponsorluklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\malideger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\malideger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\esporcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\esporcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\esporcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\esporcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\espor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\espor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\diger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\diger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\basketbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\basketbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\basketbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\basketbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\basketbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\basketbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\antrenman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\antrenman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\antrenman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\antrenman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\malideger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\malideger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\futbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\futbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\basketbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\basketbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\sponsorluklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\sponsorluklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\voleybolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\voleybolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\voleybol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\voleybol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\futbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\futbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\gsyonet\u0131m\\diger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\diger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|c:\\users\\tunah\\source\\repos\\gsyonet\u0131m\\gsyonet\u0131m\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F5887E-5DC1-462C-8566-F4FA22488F86}|GSyonet\u0131m\\GSyonet\u0131m.csproj|solutionrelative:gsyonet\u0131m\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "esporcu.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\esporcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\esporcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\esporcu.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\esporcu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:46:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Basketbol.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Basketbol.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Basketbol.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Basketbol.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Basketbol.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:45:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "basketbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\basketbolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\basketbolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\basketbolcu.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\basketbolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:27:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "voleybolcu.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\voleybolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\voleybolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\voleybolcu.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\voleybolcu.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswBkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:24:34.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "futbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\futbolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\futbolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\futbolcu.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\futbolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:11:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "basketbolcu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\basketbolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\basketbolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\basketbolcu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\basketbolcu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:51:40.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "esporcu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\esporcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\esporcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\esporcu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\esporcu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:51:25.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "voleybolcu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\voleybolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\voleybolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\voleybolcu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\voleybolcu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:51:14.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "futbolcu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\futbolcu.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\futbolcu.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\futbolcu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\futbolcu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:49:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Futbol.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Futbol.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Futbol.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Futbol.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Futbol.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:50:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Diger.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Diger.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Diger.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Diger.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Diger.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:30:55.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Antrenman.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Antrenman.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Antrenman.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Antrenman.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Antrenman.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:43:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\DatabaseHelper.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\DatabaseHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:46:57.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Futbol.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Futbol.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Futbol.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Futbol.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Futbol.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:30:46.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Diger.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Diger.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Diger.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Diger.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Diger.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:59:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaliDeger.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\MaliDeger.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\MaliDeger.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\MaliDeger.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\MaliDeger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:00:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Oyuncular.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Oyuncular.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Oyuncular.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Oyuncular.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Oyuncular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:00:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sponsorluklar.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Sponsorluklar.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Sponsorluklar.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Sponsorluklar.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Sponsorluklar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:01:02.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Antrenman.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Antrenman.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Antrenman.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Antrenman.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Antrenman.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:58:00.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tesis.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Tesis.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Tesis.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Tesis.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Tesis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:02:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oyuncular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Oyuncular.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Oyuncular.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Oyuncular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Oyuncular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:53:21.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Form1.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Form1.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Form1.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:00:41.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ESpor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\ESpor.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\ESpor.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\ESpor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\ESpor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:16:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Basketbol.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Basketbol.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Basketbol.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Basketbol.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Basketbol.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:39:14.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaliDeger.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\MaliDeger.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\MaliDeger.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\MaliDeger.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\MaliDeger.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:36:21.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tesis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Tesis.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Tesis.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Tesis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Tesis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:40:36.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sponsorluklar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Sponsorluklar.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Sponsorluklar.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Sponsorluklar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Sponsorluklar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:38:53.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Voleybol.cs",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Voleybol.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Voleybol.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Voleybol.cs",
+              "RelativeToolTip": "GSyonet\u0131m\\Voleybol.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:47:26.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Form1.cs",
+              "RelativeDocumentMoniker": "GSyonet\u0131m\\Form1.cs",
+              "ToolTip": "C:\\Users\\tunah\\source\\repos\\GSyonet\u0131m\\GSyonet\u0131m\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GSyonet\u0131m\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:49.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
